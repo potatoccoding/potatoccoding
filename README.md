@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">My name is Sharp-Less</h3>
+<h3 align="center">My name is CodePotato</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9F4F&center=true&vCenter=true&width=435&lines=Linux+Developer;C+Programmer" alt="Typing SVG" />
 </p>
